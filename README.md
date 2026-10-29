@@ -68,6 +68,6 @@ Today, giving an autonomous agent a static credit card or PayPal credentials is 
 
 ### 2. Clone & Install Frontend
 ```bash
-git clone https://github.com/your-username/agentpay.git
-cd agentpay
+git clone https://github.com/iamshyamsundar04-collab/AgentPay.git
+cd AgentPay
 npm install
