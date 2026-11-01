@@ -6,8 +6,10 @@
 
 # Dependencies
 node_modules/
-.pnp
-.pnp.js
+dist/
+.env
+.env.*
+
 
 # Production build artifacts
 dist/
